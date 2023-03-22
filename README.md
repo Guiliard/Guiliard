@@ -7,8 +7,8 @@
 <br>
 <div>
   <a href="https://github.com/Guiliard">
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=Guiliard&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliard&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=Guiliard&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/ hspace=30>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliard&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
