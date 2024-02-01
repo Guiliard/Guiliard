@@ -7,8 +7,8 @@
 <br>
 <div>
   <a href="https://github.com/Guiliard">
-  <img height="175cm" src="https://github-readme-stats.vercel.app/api?username=Guiliard&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/ hspace=30>
-  <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliard&layout=compact&langs_count=7&theme=radical"/>
+  <img height="175cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guiliard&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/ hspace=30>
+  <img height="175cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guiliard&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
   <div style="display: inline_block"><br>
