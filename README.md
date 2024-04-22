@@ -12,40 +12,40 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank">
+  <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="blank">
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </a>
-  <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank">
+  <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="blank">
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">
     <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
     <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://docs.python.org/pt-br/3/tutorial/index.html" target="_blank">
+  <a href="https://docs.python.org/pt-br/3/tutorial/index.html" target="blank">
     <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <a href="https://www.typescriptlang.org/docs/" target="blank">
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
-  <a href="https://prev.rust-lang.org/pt-BR/documentation.html" target="_blank">
+  <a href="https://prev.rust-lang.org/pt-BR/documentation.html" target="blank">
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=rust">
   </a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
+  <a href="https://nodejs.org/docs/latest/api/" target="blank">
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=nodejs">
   </a>
-  <a href="https://docs.docker.com/reference/" target="_blank">
+  <a href="https://docs.docker.com/reference/" target="blank">
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   </a>
-  <a href="https://git-scm.com/doc" target="_blank">  
+  <a href="https://git-scm.com/doc" target="blank">  
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=git">   
   </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
+  <a href="https://www.kernel.org/doc/html/latest/" target="blank">
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=linux">
   </a>
-  <a href="https://code.visualstudio.com/Docs" target="_blank">  
+  <a href="https://code.visualstudio.com/Docs" target="blank">  
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   </a>  
   </div>   
