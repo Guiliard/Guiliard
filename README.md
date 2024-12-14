@@ -36,6 +36,9 @@
   <a href="https://prev.rust-lang.org/pt-BR/documentation.html" target="blank">
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=rust">
   </a>
+  <a href="https://www.php.net/docs.php" target="blank">
+    <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=php">
+  </a>
   <a href="https://nodejs.org/docs/latest/api/" target="blank">
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=nodejs">
   </a>
@@ -50,6 +53,9 @@
   </a>
   <a href="https://www.kernel.org/doc/html/latest/" target="blank">
     <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=linux">
+  </a>
+  <a href="https://laravel.com/docs/11.x/readme" target="blank">
+    <img align="center" height="35" width="40" src="https://skillicons.dev/icons?i=laravel">
   </a>
   <a href="https://code.visualstudio.com/Docs" target="blank">  
     <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
