@@ -5,11 +5,11 @@
 - Estou aberto à sugestões de melhorias de código.
 ##
 <br>
-<div>
-  <a href="https://github.com/Guiliard">
-  <img height="150cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guiliard&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/ hspace=30>
-  <img height="150cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guiliard&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guiliard/Guiliard/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guiliard/Guiliard/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guiliard/Guiliard/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
     
 ##
 ### Contatos
